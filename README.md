@@ -47,7 +47,7 @@ Libraries: Lang Chain, FAISS, Hugging Face Transformers, PyPDF2, Pandas
    F1 Score for partial semantic matches.
    Manual evaluation for legal interpretability.
 
- Pipeline Architecture (Textual Diagram)
+# Pipeline Architecture (Textual Diagram)
  
      ┌──────────────────────────────┐
      │ Legal Documents (PDFs)       │
